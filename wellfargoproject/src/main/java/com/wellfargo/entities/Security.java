@@ -1,5 +1,5 @@
 package com.example.demo.entities;
-
+// Security entity
 import javax.persistence.*;
 import java.util.List;
 
