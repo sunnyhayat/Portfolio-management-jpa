@@ -1,5 +1,5 @@
 package com.example.demo.entities;
-
+// Category entity
 import javax.persistence.*;
 import java.util.List;
 
